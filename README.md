@@ -1,1 +1,1 @@
-# week-01
+# week-01 challenge: modifiying code to become more accessible.
